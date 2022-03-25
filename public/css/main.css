@@ -40,14 +40,14 @@ nav ul a {
 
 
 .loading-cover {
-  display: https://wajahatirfan.com/wp-content/uploads/2022/03/wAJAHAT__1_-removebg-preview-1.png;
+  display: none;
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
-  height: 50%;
+  height: 40%;
 
-  background: rgba(255, 0, 0, 1.0);
+  background: rgba(56, 117, 255, 1.0);
   z-index: 1;
   text-align: center;
 }
