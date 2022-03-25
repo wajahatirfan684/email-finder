@@ -33,7 +33,7 @@ nav ul a {
 }
 
 .btn-gradient {
-    background: #187e9c;
+    background: #ffe100;
     background: -webkit-linear-gradient(left,#187e9c,#1ea8d3);
     background: linear-gradient(90deg,#187e9c 0,#1ea8d3);
 }
