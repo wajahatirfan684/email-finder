@@ -47,7 +47,7 @@ nav ul a {
   width: 100%;
   height: 100%;
 
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 0, 0.5);
   z-index: 1;
   text-align: center;
 }
@@ -86,7 +86,7 @@ nav ul a {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #333;
+  background-color: #ffe100;
   -webkit-animation: sk-foldCubeAngle 2.4s infinite linear both;
           animation: sk-foldCubeAngle 2.4s infinite linear both;
   -webkit-transform-origin: 100% 100%;
