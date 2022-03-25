@@ -4,7 +4,7 @@
 
 /* Nav */
 nav img {
-  width: 150px;
+  width: 300px;
   vertical-align: middle;
 }
 
@@ -57,7 +57,7 @@ nav ul a {
 }
 
 .loading-cover.show {
-  display: block;
+  display: circle;
 }
 
 
