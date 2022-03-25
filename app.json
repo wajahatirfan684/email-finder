@@ -1,7 +1,7 @@
 {
   "name": "Email Finder",
   "description": "Easily find any email address for free!",
-  "repository": "https://github.com/mfrye/email-finder",
-  "logo": "https://www.thebigpicture.io/android-icon-192x192.png",
+  "repository": "https://github.com/wajahatirfan684/email-finder",
+  "logo": "https://wajahatirfan.com/wp-content/uploads/2022/03/wAJAHAT__1_-removebg-preview-1.png",
   "keywords": ["node", "express", "email"]
 }
