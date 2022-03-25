@@ -9,13 +9,13 @@ nav img {
 }
 
 nav ul a {
-  color: rgba(56, 117, 255, 1.0);
+  color: rgba(0,0,0,0.87);
 }
 
 .logo {
   text-align: center;
-  margin-top: 150px;
-  margin-bottom: 50px;
+  margin-top: 32px;
+  margin-bottom: 40px;
 }
 
 #email-form {
@@ -33,7 +33,7 @@ nav ul a {
 }
 
 .btn-gradient {
-    background: #ffe100;
+    background: #187e9c;
     background: -webkit-linear-gradient(left,#187e9c,#1ea8d3);
     background: linear-gradient(90deg,#187e9c 0,#1ea8d3);
 }
@@ -45,11 +45,11 @@ nav ul a {
   top: 0;
   left: 0;
   width: 100%;
-  height: 30%;
+  height: 40%;
 
-  background: rgba(56, 117, 255, 1.0);
+  background: rgba(255, 255, 255, 0.5);
   z-index: 1;
-  text-align: center;
+  text-align: none;
 }
 
 .loading-cover h4 {
@@ -85,8 +85,8 @@ nav ul a {
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
-  background-color: #ffe100;
+  height: 140%;
+  background-color: #333;
   -webkit-animation: sk-foldCubeAngle 2.4s infinite linear both;
           animation: sk-foldCubeAngle 2.4s infinite linear both;
   -webkit-transform-origin: 100% 100%;
