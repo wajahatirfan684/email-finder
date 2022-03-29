@@ -161,7 +161,7 @@ function onSubmit(e) {
     loadingCover.removeClass('show');
 
     // Set result
-    $('#result').html('There was a problem finding the email.');
+    $('#result').html('Sorry!!! Email not found');
   });
 
   return false;
